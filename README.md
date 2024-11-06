@@ -80,7 +80,7 @@ On completion of the course, participants can expect to:
 | Course Date | Course Title | Location |Citation DOI |
 |-------------|--------------|----------|-------------|
 | 11–15 September 2023 | [Genetic Analysis of Population-based Association Studies](https://coursesandconferences.wellcomeconnectingscience.org/event/genetic-analysis-of-population-based-association-studies-20230911/) | Wellcome Genome Campus, UK | [![DOI](https://zenodo.org/badge/835226405.svg)](https://zenodo.org/doi/10.5281/zenodo.13122520) |
-| 2–6 September 2024 | [Genetic Analysis of Population-based Association Studies](https://coursesandconferences.wellcomeconnectingscience.org/event/genetic-analysis-of-population-based-association-studies-20240902/) | Wellcome Genome Campus, UK | DOI coming soon. |
+| 2–6 September 2024 | [Genetic Analysis of Population-based Association Studies](https://coursesandconferences.wellcomeconnectingscience.org/event/genetic-analysis-of-population-based-association-studies-20240902/) | Wellcome Genome Campus, UK | [![DOI](https://zenodo.org/badge/835226405.svg)](https://zenodo.org/doi/10.5281/zenodo.14043234) |
 
 ******
 
