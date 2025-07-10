@@ -2,11 +2,11 @@
 
 # Genetic Analysis of Population-based Association Studies
 
-## 2–6 September 2024, Wellcome Genome Campus, UK
+## 1–5 September 2025, Wellcome Genome Campus, UK
 
-[Wellcome Connecting Science Course Website Link](https://coursesandconferences.wellcomeconnectingscience.org/event/genetic-analysis-of-population-based-association-studies-20240902/) <br /> 
-[Course Time table](https://github.com/WCSCourses/Association_Studies_2024/blob/main/Masterplanner%20document%20-%20Timetable.pdf) <br /> 
-[Course Informatics Guide](https://github.com/WCSCourses/Association_Studies_2024/blob/main/Course_Informatics_Guide.md)
+[Wellcome Connecting Science Course Website Link](https://coursesandconferences.wellcomeconnectingscience.org/event/genetic-analysis-of-population-based-association-studies-20250901/) <br /> 
+[Course Time table]() <br /> 
+[Course Informatics Guide](https://github.com/WCSCourses/Association_Studies_2025/blob/main/Course_Informatics_Guide.md)
 
 # Summary
 
@@ -85,13 +85,14 @@ On completion of the course, participants can expect to:
 - [Gibran Hemani](https://www.bristol.ac.uk/people/person/Gibran-Hemani-7099528a-3d05-4917-a312-8ac3d8ec5e71/), University of Bristol, UK
 - [Andrew Morris](https://research.manchester.ac.uk/en/persons/andrew.morris-5), University of Manchester, UK
 - [Gisela Orozco](https://research.manchester.ac.uk/en/persons/gisela.orozco), University of Manchester, UK
-- Nik Tzoumas, Newcastle University, UK
+- [Nik Tzoumas](https://urldefense.proofpoint.com/v2/url?u=https-3A__scholar.google.com_citations-3Fuser-3D9K4Y8iUAAAAJ-26hl-3Den&d=DwMGaQ&c=D7ByGjS34AllFgecYw0iC6Zq7qlm8uclZFI0SqQnqBo&r=DcM7SA9o2jP4-vVG35Q5MCh2vz0FUZIhO4Gj0v4KdYZePZjO6nrnGElV7o3BhYHR&m=XkEE9m8sUTUf323c7kQ2DcwA-m1IIiIIqDz1kTjGoxebOwZNav-Zq-o-dWZMpzpk&s=Bv5MhBdqyi_f5a3m89V4i6a-YGFSQOK7YbKeMCOaMwc&e=), Newcastle University, UK
 
 **Wellcome Connecting Science Team**    
 
+- [Alice Matimba](https://uk.linkedin.com/in/alice-matimba-8805177), Head of Training and Global Capacity
 - [Martin Aslett](https://www.wellcomeconnectingscience.org/person/aslett-martin/), Informatics Manager
 - [Vaishnavi Vikas Gangadhar](https://www.wellcomeconnectingscience.org/person/gangadhar-vaishnavi/), Informatics Technical Officer
-- [Nicola Stevens](https://www.wellcomeconnectingscience.org/person/stevens-nicola/), Events Organiser
+- [Monica Abrudan](https://www.linkedin.com/in/monica-abrudan-09bb34a/?originalSubdomain=uk), Bioinformatics Education Developer
 
 ******
 
