@@ -5,7 +5,7 @@
 ## 1–5 September 2025, Wellcome Genome Campus, UK
 
 [Wellcome Connecting Science Course Website Link](https://coursesandconferences.wellcomeconnectingscience.org/event/genetic-analysis-of-population-based-association-studies-20250901/) <br /> 
-[Course Time table](https://github.com/WCSCourses/Association_Studies_2025/blob/main/Association%20Studies%20Masterplanner%202025%20-%20Timetable-1.pdf) <br /> 
+[Course Timetable](https://github.com/WCSCourses/Association_Studies_2025/blob/main/Association%20Studies%20Masterplanner%202025%20-%20Timetable-1.pdf) <br /> 
 [Course Informatics Guide](https://github.com/WCSCourses/Association_Studies_2025/blob/main/Course_Informatics_Guide.md)
 
 # Summary
