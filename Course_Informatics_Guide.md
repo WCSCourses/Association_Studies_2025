@@ -1,5 +1,5 @@
 # <img src="https://coursesandconferences.wellcomeconnectingscience.org/wp-content/themes/wcc_courses_and_conferences/dist/assets/svg/logo.svg" width="300" height="50">
-# Genetic Analysis of Population-based Association Studies Informatics Guide 2024
+# Genetic Analysis of Population-based Association Studies Informatics Guide 2025
 
 **Software/Tools used during the course**      
 
