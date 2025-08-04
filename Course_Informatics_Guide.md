@@ -7,9 +7,9 @@
 |-------------|--------------|----------|-------------|
 | [R Programming Language](https://www.r-project.org/) | 4.4.1| Module Name| - |
 | [R package ISwR](https://cran.r-project.org/package=ISwR) | 2.0-8 | Module Name| Depends on R (≥ 2.6.0) |
-| [R package TwoSampleMR](https://rdrr.io/github/MRCIEU/TwoSampleMR/) | v0.3.2. | Module Name| - |
+| [R package TwoSampleMR](https://rdrr.io/github/MRCIEU/TwoSampleMR/) | v0.6.17 | Module Name| - |
 | [R package MRInstruments](https://github.com/MRCIEU/MRInstruments) | 0.3.2 | Module Name| - |
-| [R package RadialMR](https://github.com/WSpiller/RadialMR) | 1.1 | Module Name| - |
+| [R package RadialMR](https://github.com/WSpiller/RadialMR) | 1.2 | Module Name| - |
 | [R package MendelianRandomization](https://cran.r-project.org/package=MendelianRandomization) | 0.10.0 | Module Name| Depends on R (≥ 3.0.1) |
 | [Perl](www.perl.org) | 5.40 | Module Name| [GitHub Repo](https://github.com/Perl/perl5) |
 | [Python Programming Language](https://www.python.org/downloads/) | 5.10.1+ | Module Name| - |
