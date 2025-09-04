@@ -26,7 +26,7 @@
 
 ## Informatics Set-Up
 We are currently using Oracle VM Virtual Box (https://www.virtualbox.org/) to deliver Informatics, you can find Virtual Box Guides below:
-[Virtual Machine SetUp Guide for Intel-Mac and Windows](https://github.com/WCSCourses/index/blob/main/VM%20Guide.pdf). <br />
+[Virtual Machine SetUp Guide for Intel-Mac and Windows](https://github.com/WCSCourses/index/blob/main/VM_Guide.pdf). <br />
 
 The Host OS Requirements for Virtual Box <br />
 - RAM requirement: 8GB (preferably 12GB) <br />
