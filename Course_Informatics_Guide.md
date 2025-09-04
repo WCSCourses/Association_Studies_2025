@@ -5,24 +5,24 @@
 
 | Software | Version (if not latest) | Module |Notes |
 |-------------|--------------|----------|-------------|
-| [R Programming Language](https://www.r-project.org/) | 4.4.1| Module Name| - |
-| [R package ISwR](https://cran.r-project.org/package=ISwR) | 2.0-8 | Module Name| Depends on R (≥ 2.6.0) |
-| [R package TwoSampleMR](https://rdrr.io/github/MRCIEU/TwoSampleMR/) | v0.6.17 | Module Name| - |
-| [R package MRInstruments](https://github.com/MRCIEU/MRInstruments) | 0.3.2 | Module Name| - |
-| [R package RadialMR](https://github.com/WSpiller/RadialMR) | 1.2 | Module Name| - |
-| [R package MendelianRandomization](https://cran.r-project.org/package=MendelianRandomization) | 0.10.0 | Module Name| Depends on R (≥ 3.0.1) |
-| [Perl](www.perl.org) | 5.40 | Module Name| [GitHub Repo](https://github.com/Perl/perl5) |
-| [Python Programming Language](https://www.python.org/downloads/) | 5.10.1+ | Module Name| - |
-| [VCFtools](https://vcftools.sourceforge.net/) | 3.0 | Module Name| [GitHub Repo](https://github.com/vcftools/vcftools) |
-| [BCFtools](https://github.com/samtools/bcftools) | 1.4.1 | Module Name| - |
-| [SNPTEST](https://bioinformaticshome.com/tools/gwas/descriptions/SNPTEST.html) | 2.5.2| Module Name| - |
-| [META](https://mathgen.stats.ox.ac.uk/genetics_software/meta/meta.html) | 1.7 | Module Name| -|
-| [Plink](https://www.cog-genomics.org/plink/) | 1.9 | Module Name| [Documentaion](http://zzz.bwh.harvard.edu/plink/tutorial.shtml) |
-| [GCTA](https://cnsgenomics.com/software/gcta/#Overview) | 1.9.1 beta1 | Module Name| [Documentaion](http://cnsgenomics.com/software/gcta/#Basicoptions) |
-| [FaST-LMMl](https://github.com/fastlmm/FaST-LMM/) | 2.07 | Module Name| [Documentaion](https://github.com/fastlmm/FaST-LMM/blob/master/README.md) |
-| [SHAPEIT2](http://mathgen.stats.ox.ac.uk/genetics_software/shapeit/shapeit.html) | Version Details | Module Name| [Documentaion](http://mathgen.stats.ox.ac.uk/genetics_software/shapeit/shapeit.html#gettingstarted) |
-| [IMPUTE2](https://mathgen.stats.ox.ac.uk/impute/impute_v2.html) | Version Details | Module Name| [Documentaion](https://mathgen.stats.ox.ac.uk/impute/impute_v2.html#getting_started)  |
-| [SAIGE](https://github.com/weizhouUMICH/SAIGE) | 1.0.0 | Module Name| - |
+| [R Programming Language](https://www.r-project.org/) | 4.4.1| Many modules| - |
+| [R package ISwR](https://cran.r-project.org/package=ISwR) | 2.0-8 | Mendelian Randomisation| Depends on R (≥ 2.6.0) |
+| [R package TwoSampleMR](https://rdrr.io/github/MRCIEU/TwoSampleMR/) | v0.6.17 | Mendelian Randomisation| - |
+| [R package MRInstruments](https://github.com/MRCIEU/MRInstruments) | 0.3.2 | Mendelian Randomisation| - |
+| [R package RadialMR](https://github.com/WSpiller/RadialMR) | 1.2 | Mendelian Randomisation| - |
+| [R package MendelianRandomization](https://cran.r-project.org/package=MendelianRandomization) | 0.10.0 | Mendelian Randomisation| Depends on R (≥ 3.0.1) |
+| [Perl](www.perl.org) | 5.40 | Many modules| [GitHub Repo](https://github.com/Perl/perl5) |
+| [Python Programming Language](https://www.python.org/downloads/) | 5.10.1+ | Many modules| - |
+| [VCFtools](https://vcftools.sourceforge.net/) | 3.0 | Phasing and Imputation| [GitHub Repo](https://github.com/vcftools/vcftools) |
+| [BCFtools](https://github.com/samtools/bcftools) | 1.4.1 | Phasing and Imputation| - |
+| [SNPTEST](https://bioinformaticshome.com/tools/gwas/descriptions/SNPTEST.html) | 2.5.2| QC and Association Testing| - |
+| [META](https://mathgen.stats.ox.ac.uk/genetics_software/meta/meta.html) | 1.7 | QC and Association Testing| -|
+| [Plink](https://www.cog-genomics.org/plink/) | 1.9 | QC and Association Testing, Population Structure| [Documentaion](http://zzz.bwh.harvard.edu/plink/tutorial.shtml) |
+| [GCTA](https://cnsgenomics.com/software/gcta/#Overview) | 1.9.1 beta1 | Fine Mapping| [Documentaion](http://cnsgenomics.com/software/gcta/#Basicoptions) |
+| [FaST-LMMl](https://github.com/fastlmm/FaST-LMM/) | 2.07 | Population Structure| [Documentaion](https://github.com/fastlmm/FaST-LMM/blob/master/README.md) |
+| [SHAPEIT2](http://mathgen.stats.ox.ac.uk/genetics_software/shapeit/shapeit.html) | Version Details | Phasing and Imputation| [Documentaion](http://mathgen.stats.ox.ac.uk/genetics_software/shapeit/shapeit.html#gettingstarted) |
+| [IMPUTE2](https://mathgen.stats.ox.ac.uk/impute/impute_v2.html) | Version Details | Phasing and Imputation| [Documentaion](https://mathgen.stats.ox.ac.uk/impute/impute_v2.html#getting_started)  |
+| [SAIGE](https://github.com/weizhouUMICH/SAIGE) | 1.0.0 | Rare Variants| - |
 
 ## Informatics Set-Up
 We are currently using Oracle VM Virtual Box (https://www.virtualbox.org/) to deliver Informatics, you can find Virtual Box Guides below:
